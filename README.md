@@ -18,7 +18,7 @@ I am a web developer with solid experience in both frontend and backend technolo
 
 ## 📚 Teaching
 
-I have taught a wide variety of courses to students from several universities in Peru, focusing on programming and mathematics courses.
+I have taught a wide variety of courses to students from several universities in Peru, focusing on programming and mathematics.
 
 ## 🚀 Skills
 
@@ -61,4 +61,3 @@ I have taught a wide variety of courses to students from several universities in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
 </p>
-pagina
