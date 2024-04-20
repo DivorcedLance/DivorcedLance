@@ -8,13 +8,13 @@
 
 ## 💻 Web Development and Python Experience
 
-Experienced web application developer with expertise in responsive design and backend development. Passionate about creating efficient technological solutions and fostering learning through teaching. I have worked on projects such as redesigning the website for DS3 Comunicaciones and have developed applications such as:
+I am a web developer with solid experience in both frontend and backend technologies. I enjoy crafting user-friendly interfaces and efficient backend services. My projects aim to enhance my skills while delivering functional and visually appealing applications. Some of the projects I have worked on include:
 
-- **Connect Four:** A four-player connection game.
-- **Movie Search App:** An application for searching movie information.
-- **JS Quiz:** An interactive quiz application.
-- **Robot Table:** Simulation of a robot moving on a table.
-- **Custom Countdown:** Custom countdown application.
+- **Connect Four:** A simple four-player connection game.
+- **Movie Search App:** A basic application for searching movie information.
+- **JS Quiz:** An interactive quiz for web users.
+- **Robot Table:** A basic simulation of a robot moving on a table.
+- **Custom Countdown:** A straightforward countdown application.
 
 ## 📚 Teaching
 
