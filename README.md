@@ -22,7 +22,7 @@ I have taught a wide variety of courses to students from several universities in
 
 ## 🚀 Skills
 
-<h3 align="left">👨‍💻 Web Development Frontend Technologies:</h3>
+<h3 align="left">🌐 Web Development Frontend Technologies:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -36,7 +36,9 @@ I have taught a wide variety of courses to students from several universities in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </p>
 
-<h3 align="left">👨‍💻 Backend Web Development Technologies:</h3>
+
+
+<h3 align="left">🗄️ Backend Web Development Technologies:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -59,3 +61,4 @@ I have taught a wide variety of courses to students from several universities in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
 </p>
+pagina
