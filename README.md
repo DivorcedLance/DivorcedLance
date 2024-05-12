@@ -4,7 +4,7 @@
 
 ### Universidad Nacional Mayor de San Marcos
 - **Degree:** Systems Engineering
-- **Current Year:** 2nd year
+- **Current Year:** 3rd year
 
 ## 💻 Web Development and Python Experience
 
