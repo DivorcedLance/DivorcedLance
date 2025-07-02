@@ -10,11 +10,11 @@
 
 I am a web developer with solid experience in both frontend and backend technologies. I enjoy crafting user-friendly interfaces and efficient backend services. My projects aim to enhance my skills while delivering functional and visually appealing applications. Some of the projects I have worked on include:
 
+- **COlorCraft:** Web-based color strategy game featuring AI and multiplayer
 - **Connect Four:** A simple four-player connection game.
 - **Movie Search App:** A basic application for searching movie information.
 - **JS Quiz:** An interactive quiz for web users.
 - **Robot Table:** A basic simulation of a robot moving on a table.
-- **Custom Countdown:** A straightforward countdown application.
 
 ## 📚 Teaching
 
